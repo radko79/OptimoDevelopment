@@ -1,0 +1,16 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Yahoo API weather widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server public/"
+  },
+  "keywords": [],
+  "author": "Radoslaw Podgorski",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
